@@ -12,7 +12,7 @@
 # limitations under the License.
 #
 # [START bookshelf_app_yml]
-runtime: nodejs12
+runtime: nodejs14
 
 instance_class: F2
 # [END bookshelf_app_yml]
